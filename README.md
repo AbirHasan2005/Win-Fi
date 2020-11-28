@@ -1,11 +1,12 @@
 # Win-Fi v0.9-Alpha
 
-This is a Python3 script which shows saved WiFi Password & other details based on `netsh`.
+This is a Python3 script which shows saved WiFi Passwords based on `netsh`.
 
 ## Features:
-- Shows Saved Passwords
-- Shows Network type
-- Shows Version
-- Shows Security Type
+- Shows Only Saved Passwords
+- Clean Look
+
+### For More Detailled Views of Router Use Alpha Version!
+- [Alpha](https://github.com/AbirHasan2005/Win-Fi/tree/alpha)
 
 #### This is in Development !!
