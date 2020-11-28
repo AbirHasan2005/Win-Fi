@@ -1,4 +1,4 @@
-# Win-Fi v0.9-Alpha
+# Win-Fi v1.0-Stable
 
 This is a Python3 script which shows saved WiFi Passwords based on `netsh`.
 
