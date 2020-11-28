@@ -9,4 +9,10 @@ This is a Python3 script which shows saved WiFi Passwords based on `netsh`.
 ### For More Detailled Views of Router Use Alpha Version!
 - [Alpha](https://github.com/AbirHasan2005/Win-Fi/tree/alpha)
 
+## How to use?
+Open Command Prompt & Type:
+```
+python start.py
+```
+
 #### This is in Development !!
