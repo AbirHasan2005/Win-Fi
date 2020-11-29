@@ -1,7 +1,11 @@
+import os
+import time
+import sys
 import subprocess
 
 print("")
 print("Wi-Fi Router Names & Passwords:")
+time.sleep(1)
 print("")
 
 ########## Main Code ############# Main Code ############# Main Code ##########
@@ -26,3 +30,5 @@ for name in router:
 ########## Main Code ############# Main Code ############# Main Code ##########
 
 print("      Coded By AbirHasan2005      ")
+print("")
+os.system('pause')
