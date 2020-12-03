@@ -1,6 +1,6 @@
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbirHasan2005/Win-Fi/alpha)](https://github.com/AbirHasan2005/Win-Fi/commits/alpha) [![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/Win-Fi)](https://github.com/AbirHasan2005/Win-Fi) [![GitHub top language](https://img.shields.io/github/languages/top/AbirHasan2005/Win-Fi)](https://github.com/AbirHasan2005/Win-Fi)
 
-# Win-Fi v1.0-Alpha
+# Win-Fi v2.3-Alpha
 
 This is a Python3 script which shows saved WiFi Passwords in Windows based on **netsh**.
 
@@ -9,6 +9,8 @@ This is a Python3 script which shows saved WiFi Passwords in Windows based on **
 - Shows Network Type
 - Shows Version
 - Shows Security Type
+- More Extra Details
+- Disconnect From a Network
 
 ## Requirements:
 - Windows OS
